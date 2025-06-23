@@ -25,11 +25,6 @@ YelpCamp is a full-stack web application that allows users to view, create, edit
 
 ---
 
-## 📷 Screenshots
-
-> _Add some screenshots here if you want_
-
----
 
 ## 🔧 Installation (Local Setup)
 
